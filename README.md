@@ -23,5 +23,5 @@ Hello! My name is Vishesh Koul, a student of Btech at MDU(Maharshi Dayanand Univ
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-BharatMalik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharat-malik-91b884192/)](https://www.linkedin.com/in/bharat-malik-91b884192/)  [![Gmail Badge](https://img.shields.io/badge/-BharatMalik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharatmalik1999@gmail.com)](mailto:bharatmalik1999@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vishesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishesh-koul-460655146/)](https://www.linkedin.com/in/vishesh-koul-460655146/)  [![Gmail Badge](https://img.shields.io/badge/-Vishesh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:visheshkoul@gmail.com)](mailto:visheshkoul@gmail.com)
 
